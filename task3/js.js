@@ -1,145 +1,154 @@
 var photoPosts = [
 
     {
-        id: 'fp1',
-        descriprion: 'Очень классный бургер',
+        id: '1',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger6.jpg'
-    },
+    }
+
+    ,
     {
-        id: 'fp2',
-        descriprion: 'Очень классный бургер',
+        id: '2',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger5.jpg'
-    },
+    }
+
+    ,
     {
-        id: 'fp3',
-        descriprion: 'Очень классный бургер',
+        id: '3',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger7.jpg'
     },
     {
-        id: 'fp4',
-        descriprion: 'Очень классный бургер',
+        id: '4',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger8.jpg'
     },
     {
-        id: 'fp5',
-        descriprion: 'Очень классный бургер',
+        id: '5',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger9.jpg'
     },
     {
-        id: 'fp6',
-        descriprion: 'Очень классный бургер',
+        id: '6',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger6.jpg'
     },
     {
-        id: 'fp7',
-        descriprion: 'Очень классный бургер',
+        id: '7',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger5.jpg'
     },
     {
-        id: 'fp8',
-        descriprion: 'Очень классный бургер',
+        id: '8',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger7.jpg'
     },
     {
-        id: 'fp9',
-        descriprion: 'Очень классный бургер',
+        id: '9',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger8.jpg'
     },
     {
-        id: 'fp10',
-        descriprion: 'Очень классный бургер',
+        id: '10',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger9.jpg'
     },
     {
-        id: 'fp11',
-        descriprion: 'Очень классный бургер',
+        id: '11',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger6.jpg'
-    },
+    }
+
+    ,
     {
-        id: 'fp12',
-        descriprion: 'Очень классный бургер',
+        id: '12',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger5.jpg'
-    },
+    }
+
+    ,
     {
-        id: 'fp13',
-        descriprion: 'Очень классный бургер',
+        id: '13',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger7.jpg'
     },
     {
-        id: 'fp14',
-        descriprion: 'Очень классный бургер',
+        id: '14',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger8.jpg'
     },
     {
-        id: 'fp15',
-        descriprion: 'Очень классный бургер',
+        id: '15',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger9.jpg'
     },
     {
-        id: 'fp16',
-        descriprion: 'Очень классный бургер',
+        id: '16',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger6.jpg'
     },
     {
-        id: 'fp17',
-        descriprion: 'Очень классный бургер',
+        id: '17',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger5.jpg'
     },
     {
-        id: 'fp18',
-        descriprion: 'Очень классный бургер',
+        id: '18',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger7.jpg'
     },
     {
-        id: 'fp19',
-        descriprion: 'Очень классный бургер',
+        id: '19',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger8.jpg'
     },
     {
-        id: 'fp20',
-        descriprion: 'Очень классный бургер',
+        id: '20',
+        description: 'Очень классный бургер',
         createdAt: new Date('2018-02-23T23:00:00'),
         author: 'Rachok Maxim',
         photoLink: 'burger9.jpg'
     }
+
 
 ];
 
@@ -234,7 +243,7 @@ var filling = (function () {
         if(typeof  post !== 'object') {
             return false;
         }
-        var i = searchpPost(id);
+        var i = searchPost(id);
         if(i !== -1){
             if(typeof post.description === 'string'){
                 photoPosts[i].description = post.description;
@@ -258,3 +267,379 @@ var filling = (function () {
     };
 
 })();
+
+
+//let user = null;
+let user =  'Maxim';
+
+let users = [
+    {
+        name: 'Maxim',
+        password: '1234567890'
+    },
+    {
+        name: 'Rachok Maxim',
+        password: '1'
+    },
+    {
+        name: 'admin',
+        password: 'admin'
+    }
+];
+
+var dom = (function () {
+
+    function getPhotoPost(photoPost) {
+
+        var post = document.createElement('div');
+        post.setAttribute('class', 'post');
+        post.setAttribute('id', photoPost.id);
+
+        var name = document.createElement('div');
+        name.setAttribute('class', 'post-name');
+        name.textContent = photoPost.author;
+        post.appendChild(name);
+
+        var description = document.createElement('div');
+        description.setAttribute('class', 'post-description')
+        description.textContent= photoPost.description;
+        post.appendChild(description);
+
+        var image = document.createElement('img');
+
+        image.setAttribute('src',photoPost.photoLink);
+        image.setAttribute('class','photo');
+        post.appendChild(image);
+
+        // var like= document.createElement('img');
+        // like.setAttribute('src','like.jpg');
+        // like.setAttribute('class','like');
+        // post.appendChild(like);
+        if(photoPost.author === user){
+            var edit= document.createElement('img');
+            edit.setAttribute('src','edit.jpg');
+            edit.setAttribute('pID',photoPost.id);
+            edit.addEventListener('click',controller.editFieldEvent);
+            edit.setAttribute('class','edit');
+            post.appendChild(edit);
+
+            var bin = document.createElement('img');
+            bin.setAttribute('src','bin.jpg');
+            bin.setAttribute('pID',photoPost.id);
+            bin.addEventListener('click',controller.removeEvent);
+            bin.setAttribute('class','bin');
+            post.appendChild(bin);
+        }
+
+        var time = document.createElement('div');
+        time.setAttribute('class','text');
+        time.textContent  = photoPost.createdAt;
+        post.appendChild(time);
+
+        return post;
+    }
+
+    var showPhotoPosts = function (photoPosts) {
+        var block = document.getElementsByClassName('block')[0];
+        let length = block.childNodes.length;
+        for (let i =  length - 1; i > -1; i--) {
+            block.removeChild(block.childNodes[i]);
+        }
+        photoPosts.forEach(function (post) {
+            block.appendChild(getPhotoPost(post));
+        });
+    };
+
+    var editPhotoPost = function (id, photoPost) {
+        var block = document.getElementsByClassName('block')[0];
+        var posts = Array.prototype.slice.call(block.childNodes);
+        var edPost = posts.find(function (post) {
+            return post.id === id;
+        });
+        block.replaceChild(getPhotoPost(photoPost),edPost);
+    };
+
+    var addPhotoPost = function(photoPost){
+        var block = document.getElementsByClassName('block')[0];
+        block.insertBefore(getPhotoPost(photoPost),block.firstChild);
+
+    };
+
+    var removePhotoPost = function (id) {
+        var block = document.getElementsByClassName('block')[0];
+        var posts = Array.prototype.slice.call(block.childNodes);
+        var remPost = posts.find(function (post) {
+            return post.id === id;
+        });
+        if(remPost !== undefined){
+            remPost.remove();
+        }
+    };
+
+    let getEditField = function(photoPost){
+        let field = document.createElement('form');
+        field.setAttribute('name','editField');
+        field.setAttribute('class','editfield');
+        field.setAttribute('id',photoPost.id);
+
+        let label = document.createElement('label');
+        label.textContent = 'Desc';
+        field.appendChild(label);
+
+        let textarea =  document.createElement('textarea');
+        textarea.value = photoPost.description;
+        textarea.setAttribute('name','description');
+        field.appendChild(textarea);
+
+        label = document.createElement('label');
+        label.textContent = 'src';
+        field.appendChild(label);
+
+        textarea =  document.createElement('textarea');
+        textarea.value = photoPost.photoLink;
+        textarea.setAttribute('name','src');
+        field.appendChild(textarea);
+
+        let button = document.createElement('button');
+        button.addEventListener('click',controller.editEvent);
+        button.setAttribute('pID',photoPost.id);
+        button.textContent = 'Ok';
+        field.appendChild(button);
+        return field;
+    };
+
+    let getAddField = function(){
+         let field = document.createElement('form');
+        field.setAttribute('name','addField');
+        field.setAttribute('class','addfield');
+
+         let label = document.createElement('label');
+         label.textContent = 'Desc';
+         field.appendChild(label);
+
+        let textarea =  document.createElement('textarea');
+        textarea.setAttribute('name','description');
+        field.appendChild(textarea);
+
+        label = document.createElement('label');
+        label.textContent = 'src';
+        field.appendChild(label);
+
+        textarea =  document.createElement('textarea');
+        textarea.setAttribute('name','src');
+        field.appendChild(textarea);
+
+        let button = document.createElement('button');
+        button.addEventListener('click',controller.addEvent);
+        button.textContent = 'Ok';
+        field.appendChild(button);
+        return field;
+    };
+    let addEditField = function(id){
+        var block = document.getElementsByClassName('block')[0];
+        var posts = Array.prototype.slice.call(block.childNodes);
+        var edPost = posts.find(function (post) {
+            return post.id === id;
+        });
+        block.replaceChild( getEditField(filling.getPhotoPost(id)),edPost);
+    };
+
+    let showUser = function(){
+        userOfLS();
+        let userField = document.forms.userField;
+        let length = userField.childNodes.length;
+        for (let i =  length - 1; i > -1; i--) {
+            userField.removeChild(userField.childNodes[i]);
+        }
+        if(user != null){
+
+            let label = document.createElement('label');
+            label.textContent = user;
+            userField.appendChild(label);
+
+            let img = document.createElement('img');
+            img.setAttribute('src','logout.jpg');
+            img.setAttribute('class','like');
+            img.addEventListener('click',controller.exitEvent);
+            userField.appendChild(img);
+
+            let button = document.createElement('button');
+            button.textContent = 'add';
+            button.addEventListener('click',controller.addFieldEvent);
+            userField.appendChild(button);
+        } else{
+            let label = document.createElement('label');
+            label.textContent = 'Логин';
+            userField.appendChild(label);
+
+            let name = document.createElement('textarea');
+            name.setAttribute('name','name');
+            userField.appendChild(name);
+
+            label = document.createElement('label');
+            label.textContent = 'Пароль';
+            userField.appendChild(label);
+
+            name = document.createElement('textarea');
+            name.setAttribute('name','password');
+            userField.appendChild(name);
+
+            let img = document.createElement('img');
+            img.setAttribute('src','logout.jpg');
+            img.setAttribute('class','like');
+            img.addEventListener('click',controller.loginEvent);
+            userField.appendChild(img);
+        }
+
+    };
+
+
+
+    let addAddField = function(){
+        block = document.getElementsByClassName('block')[0];
+        block.insertBefore(getAddField(),block.firstChild);
+    }
+
+    return {
+        showPhotoPosts,
+        removePhotoPost,
+        editPhotoPost,
+        addPhotoPost,
+        addEditField,
+        getEditField,
+        showUser,
+        addAddField,
+        getAddField
+    };
+})();
+
+
+let controller =(function () {
+    let removeEvent = function(){
+       removePhotoPost(this.getAttribute('pID'));
+    };
+    let editFieldEvent = function () {
+        dom.addEditField(this.getAttribute('pID'));
+    };
+    let editEvent = function () {
+        let photoPost = {
+            description: document.forms.editField.description.value,
+            photoLink: document.forms.editField.src.value
+        }
+        editPhotoPost(this.getAttribute('pID'),photoPost);
+    };
+    let exitEvent = function () {
+        user = null;
+        userInLS();
+        dom.showUser();
+        showPhotoPosts();
+    };
+
+    let addEvent = function(){
+        let photoPost = {
+            description: document.forms.addField.description.value,
+            photoLink: document.forms.addField.src.value,
+            createdAt : new Date(),
+            author: user,
+            id: getId().toString()
+        };
+        addPhotoPost(photoPost);
+    };
+    let loginEvent = function(){
+        let i = users.find(function(user){
+            if(user.name === document.forms.userField.name.value){
+                if(user.password === document.forms.userField.password.value){
+                    return true;
+                }
+            }
+            return false;
+        });
+        if(i){
+            user = document.forms.userField.name.value;
+        }
+        userInLS();
+        dom.showUser();
+        showPhotoPosts();
+
+    };
+
+
+    let addFieldEvent = function () {
+      dom.addAddField();
+      dom.showUser();
+    };
+    return{
+        removeEvent,
+        addFieldEvent,
+        editFieldEvent,
+        editEvent,
+        exitEvent,
+        loginEvent,
+        addEvent
+    }
+})();
+
+function removePhotoPost(id) {
+    if (filling.removePhotoPost(id)) {
+        dom.removePhotoPost(id);
+        postsInLS();
+        return true;
+    }
+    return false;
+}
+
+function editPhotoPost(id, photoPost) {
+    if (filling.editPhotoPost(id, photoPost)) {
+        dom.editPhotoPost(id, filling.getPhotoPost(id));
+        postsInLS();
+        return true;
+    }
+    return false;
+}
+
+function addPhotoPost(photoPost) {
+    if (filling.addPhotoPost(photoPost)) {
+        dom.addPhotoPost(photoPost);
+        postsInLS();
+        return true;
+    }
+    return false;
+}
+
+function showPhotoPosts() {
+    postsOfLS();
+    dom.showPhotoPosts(photoPosts);
+}
+
+function getId(){
+    let id = 1;
+    photoPosts.forEach(function(post){
+        if(Number(post.id) > id){
+            id = Number(post.id);
+        }
+    })
+    return id+1;
+}
+
+function postsInLS(){
+    localStorage.setItem('posts',JSON.stringify(photoPosts));
+}
+function postsOfLS(){
+    var posts = JSON.parse(localStorage.getItem('posts'));
+    if(posts !== null){
+        photoPosts = posts;
+    }
+}
+function userInLS(){
+    localStorage.setItem('user',JSON.stringify(user));
+}
+function userOfLS(){
+    var u = JSON.parse(localStorage.getItem('user'));
+    if(u !== null){
+            user = u;
+        }
+}
+
+//userInLS();
+dom.showUser();
+showPhotoPosts();
